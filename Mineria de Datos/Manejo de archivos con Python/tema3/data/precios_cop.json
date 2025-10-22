@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "producto": "Producto A",
+        "precio_cop": "8000"
+    },
+    {
+        "id": "2",
+        "producto": "Producto B",
+        "precio_cop": "12000"
+    },
+    {
+        "id": "3",
+        "producto": "Producto C",
+        "precio_cop": "5000"
+    }
+]

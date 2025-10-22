@@ -1,0 +1,4 @@
+Python es un lenguaje poderoso. 
+Permite trabajar con archivos de texto fácilmente. 
+Este archivo sirve para practicar lectura y escritura. 
+ejemplo.
