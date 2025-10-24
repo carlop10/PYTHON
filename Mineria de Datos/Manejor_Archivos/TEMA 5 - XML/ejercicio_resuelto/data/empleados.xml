@@ -1,0 +1,4 @@
+<empresa> 
+    <empleado id="1"><nombre>Ana</nombre></empleado> 
+<empleado id="2"><nombre>Luis</nombre></empleado> 
+</empresa>

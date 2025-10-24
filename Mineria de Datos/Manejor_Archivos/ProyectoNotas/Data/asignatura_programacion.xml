@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<notas>
+    <estudiante>
+        <codigo>STU001</codigo>
+        <nombres>Luis Pérez</nombres>
+        <correo>luis@corimaginaria.com</correo>
+        <celular>3001112231</celular>
+        <inasistencias>2</inasistencias>
+        <nota>0.5</nota>
+    </estudiante>
+    <estudiante>
+        <codigo>STU002</codigo>
+        <nombres>Ana Gómez</nombres>
+        <correo>ana@corimaginaria.com</correo>
+        <celular>3001112232</celular>
+        <inasistencias>1</inasistencias>
+        <nota>4.2</nota>
+    </estudiante>
+    <estudiante>
+        <codigo>STU003</codigo>
+        <nombres>Mario Díaz</nombres>
+        <correo>mario@corimaginaria.com</correo>
+        <celular>3001112233</celular>
+        <inasistencias>1</inasistencias>
+        <nota>2.8</nota>
+    </estudiante>
+    <estudiante>
+        <codigo>STU004</codigo>
+        <nombres>Sofía Rojas</nombres>
+        <correo>sofia@corimaginaria.com</correo>
+        <celular>3001112234</celular>
+        <inasistencias>0</inasistencias>
+        <nota>4.7</nota>
+    </estudiante>
+    <estudiante>
+        <codigo>STU005</codigo>
+        <nombres>Diego Torres</nombres>
+        <correo>diego@corimaginaria.com</correo>
+        <celular>3001112235</celular>
+        <inasistencias>0</inasistencias>
+        <nota>3.9</nota>
+    </estudiante>
+    <estudiante>
+        <codigo>STU006</codigo>
+        <nombres>Camila Ruiz</nombres>
+        <correo>camila@corimaginaria.com</correo>
+        <celular>3001112236</celular>
+        <inasistencias>1</inasistencias>
+        <nota>4.0</nota>
+    </estudiante>
+    <estudiante>
+        <codigo>STU007</codigo>
+        <nombres>Andrés Mora</nombres>
+        <correo>andres@corimaginaria.com</correo>
+        <celular>3001112237</celular>
+        <inasistencias>2</inasistencias>
+        <nota>2.5</nota>
+    </estudiante>
+    <estudiante>
+        <codigo>STU008</codigo>
+        <nombres>Valeria López</nombres>
+        <correo>valeria@corimaginaria.com</correo>
+        <celular>3001112238</celular>
+        <inasistencias>0</inasistencias>
+        <nota>4.8</nota>
+    </estudiante>
+    <estudiante>
+        <codigo>STU009</codigo>
+        <nombres>Julián Vega</nombres>
+        <correo>julian@corimaginaria.com</correo>
+        <celular>3001112239</celular>
+        <inasistencias>1</inasistencias>
+        <nota>3.7</nota>
+    </estudiante>
+    <estudiante>
+        <codigo>STU010</codigo>
+        <nombres>Daniela Cruz</nombres>
+        <correo>daniela@corimaginaria.com</correo>
+        <celular>3001112240</celular>
+        <inasistencias>0</inasistencias>
+        <nota>1.1</nota>
+    </estudiante>
+</notas>

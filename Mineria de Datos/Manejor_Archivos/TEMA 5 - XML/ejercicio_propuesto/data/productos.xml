@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productos>
+    <producto>
+        <nombre>Camiseta</nombre>
+        <precio>19.99</precio>
+        <cantidad>50</cantidad>
+    </producto>
+    <producto>
+        <nombre>Pantalón</nombre>
+        <precio>49.90</precio>
+        <cantidad>30</cantidad>
+    </producto>
+    <producto>
+        <nombre>Zapatos</nombre>
+        <precio>79.50</precio>
+        <cantidad>20</cantidad>
+    </producto>
+    <producto>
+        <nombre>Gorra</nombre>
+        <precio>12.00</precio>
+        <cantidad>100</cantidad>
+    </producto>
+    <producto>
+        <nombre>Chaqueta</nombre>
+        <precio>99.99</precio>
+        <cantidad>15</cantidad>
+    </producto>
+    <producto>
+        <nombre>Calcetines (par)</nombre>
+        <precio>5.50</precio>
+        <cantidad>200</cantidad>
+    </producto>
+    <producto>
+        <nombre>Bolso</nombre>
+        <precio>45.00</precio>
+        <cantidad>25</cantidad>
+    </producto>
+    <producto>
+        <nombre>Cinturón</nombre>
+        <precio>22.75</precio>
+        <cantidad>40</cantidad>
+    </producto>
+    <producto>
+        <nombre>Sudadera</nombre>
+        <precio>39.90</precio>
+        <cantidad>35</cantidad>
+    </producto>
+    <producto>
+        <nombre>Mochila</nombre>
+        <precio>59.95</precio>
+        <cantidad>18</cantidad>
+    </producto>
+</productos>

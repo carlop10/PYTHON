@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ventas>
+    <venta id="1">
+        <producto>Teclado</producto>
+        <cantidad>3</cantidad>
+        <precio>25000.0</precio>
+        <total>89250.0</total>
+        <moneda>COP</moneda>
+    </venta>
+    <venta id="2">
+        <producto>Mouse</producto>
+        <cantidad>5</cantidad>
+        <precio>12000.0</precio>
+        <total>71400.0</total>
+        <moneda>COP</moneda>
+    </venta>
+    <venta id="3">
+        <producto>Pantalla</producto>
+        <cantidad>2</cantidad>
+        <precio>150000.0</precio>
+        <total>357000.0</total>
+        <moneda>COP</moneda>
+    </venta>
+    <venta id="4">
+        <producto>USB</producto>
+        <cantidad>10</cantidad>
+        <precio>8000</precio>
+        <total>95200.0</total>
+        <moneda>COP</moneda>
+    </venta>
+    <venta id="5">
+        <producto>Cámara</producto>
+        <cantidad>1</cantidad>
+        <precio>220000</precio>
+        <total>261800.0</total>
+        <moneda>COP</moneda>
+    </venta>
+    <venta id="6">
+        <producto>Auriculares</producto>
+        <cantidad>2</cantidad>
+        <precio>45000.0</precio>
+        <total>107100.0</total>
+        <moneda>COP</moneda>
+    </venta>
+    <venta id="7">
+        <producto>Microfono</producto>
+        <cantidad>1</cantidad>
+        <precio>60000.0</precio>
+        <total>71400.0</total>
+        <moneda>COP</moneda>
+    </venta>
+</ventas>

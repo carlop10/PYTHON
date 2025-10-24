@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "nombre": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "precio": 109.95,
+        "stock": 120,
+        "categoria": "men's clothing"
+    },
+    {
+        "id": 2,
+        "nombre": "Mens Casual Premium Slim Fit T-Shirts ",
+        "precio": 22.3,
+        "stock": 259,
+        "categoria": "men's clothing"
+    },
+    {
+        "id": 3,
+        "nombre": "Mens Cotton Jacket",
+        "precio": 55.99,
+        "stock": 500,
+        "categoria": "men's clothing"
+    },
+    {
+        "id": 4,
+        "nombre": "Mens Casual Slim Fit",
+        "precio": 15.99,
+        "stock": 430,
+        "categoria": "men's clothing"
+    },
+    {
+        "id": 5,
+        "nombre": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+        "precio": 695,
+        "stock": 400,
+        "categoria": "jewelery"
+    },
+    {
+        "id": 6,
+        "nombre": "Solid Gold Petite Micropave ",
+        "precio": 168,
+        "stock": 70,
+        "categoria": "jewelery"
+    },
+    {
+        "id": 7,
+        "nombre": "White Gold Plated Princess",
+        "precio": 9.99,
+        "stock": 400,
+        "categoria": "jewelery"
+    },
+    {
+        "id": 8,
+        "nombre": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+        "precio": 10.99,
+        "stock": 100,
+        "categoria": "jewelery"
+    },
+    {
+        "id": 9,
+        "nombre": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+        "precio": 64,
+        "stock": 203,
+        "categoria": "electronics"
+    },
+    {
+        "id": 10,
+        "nombre": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+        "precio": 109,
+        "stock": 470,
+        "categoria": "electronics"
+    },
+    {
+        "id": 11,
+        "nombre": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+        "precio": 109,
+        "stock": 319,
+        "categoria": "electronics"
+    },
+    {
+        "id": 12,
+        "nombre": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+        "precio": 114,
+        "stock": 400,
+        "categoria": "electronics"
+    },
+    {
+        "id": 13,
+        "nombre": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+        "precio": 599,
+        "stock": 250,
+        "categoria": "electronics"
+    },
+    {
+        "id": 14,
+        "nombre": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+        "precio": 999.99,
+        "stock": 140,
+        "categoria": "electronics"
+    },
+    {
+        "id": 15,
+        "nombre": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+        "precio": 56.99,
+        "stock": 235,
+        "categoria": "women's clothing"
+    },
+    {
+        "id": 16,
+        "nombre": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+        "precio": 29.95,
+        "stock": 340,
+        "categoria": "women's clothing"
+    },
+    {
+        "id": 17,
+        "nombre": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+        "precio": 39.99,
+        "stock": 679,
+        "categoria": "women's clothing"
+    },
+    {
+        "id": 18,
+        "nombre": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+        "precio": 9.85,
+        "stock": 130,
+        "categoria": "women's clothing"
+    },
+    {
+        "id": 19,
+        "nombre": "Opna Women's Short Sleeve Moisture",
+        "precio": 7.95,
+        "stock": 146,
+        "categoria": "women's clothing"
+    },
+    {
+        "id": 20,
+        "nombre": "DANVOUY Womens T Shirt Casual Cotton Short",
+        "precio": 12.99,
+        "stock": 145,
+        "categoria": "women's clothing"
+    }
+]

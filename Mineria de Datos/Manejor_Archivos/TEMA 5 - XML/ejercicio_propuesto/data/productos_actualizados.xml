@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<productos>
+    <producto precio_con_iva="23.79">
+        <nombre>Camiseta</nombre>
+        <precio>19.99</precio>
+        <cantidad>50</cantidad>
+    </producto>
+    <producto precio_con_iva="59.38">
+        <nombre>Pantalón</nombre>
+        <precio>49.90</precio>
+        <cantidad>30</cantidad>
+    </producto>
+    <producto precio_con_iva="94.60">
+        <nombre>Zapatos</nombre>
+        <precio>79.50</precio>
+        <cantidad>20</cantidad>
+    </producto>
+    <producto precio_con_iva="14.28">
+        <nombre>Gorra</nombre>
+        <precio>12.00</precio>
+        <cantidad>100</cantidad>
+    </producto>
+    <producto precio_con_iva="118.99">
+        <nombre>Chaqueta</nombre>
+        <precio>99.99</precio>
+        <cantidad>15</cantidad>
+    </producto>
+    <producto precio_con_iva="6.54">
+        <nombre>Calcetines (par)</nombre>
+        <precio>5.50</precio>
+        <cantidad>200</cantidad>
+    </producto>
+    <producto precio_con_iva="53.55">
+        <nombre>Bolso</nombre>
+        <precio>45.00</precio>
+        <cantidad>25</cantidad>
+    </producto>
+    <producto precio_con_iva="27.07">
+        <nombre>Cinturón</nombre>
+        <precio>22.75</precio>
+        <cantidad>40</cantidad>
+    </producto>
+    <producto precio_con_iva="47.48">
+        <nombre>Sudadera</nombre>
+        <precio>39.90</precio>
+        <cantidad>35</cantidad>
+    </producto>
+    <producto precio_con_iva="71.34">
+        <nombre>Mochila</nombre>
+        <precio>59.95</precio>
+        <cantidad>18</cantidad>
+    </producto>
+</productos>

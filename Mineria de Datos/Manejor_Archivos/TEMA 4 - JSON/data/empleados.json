@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "nombre": "Ana",
+        "edad": "30",
+        "departamento ": "TI "
+    },
+    {
+        "id": "2",
+        "nombre": "Luis",
+        "edad": "25",
+        "departamento ": "Marketing "
+    },
+    {
+        "id": "3",
+        "nombre": "Sofía",
+        "edad": "28",
+        "departamento ": "Finanzas "
+    }
+]

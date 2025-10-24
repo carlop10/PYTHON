@@ -1,0 +1,29 @@
+[
+    {
+        "nombre": "Ana Gómez",
+        "correo": "ana.gomez@empresa.com",
+        "edad": 30,
+        "cargo": "Ingeniera de Software",
+        "salario": 4500.0,
+        "ciudad": "Desconocida",
+        "activo": true
+    },
+    {
+        "nombre": "Luis Pérez",
+        "correo": "luis.perez@empresa.com",
+        "edad": 25,
+        "cargo": "Analista de Datos",
+        "salario": 3800.0,
+        "ciudad": "Desconocida",
+        "activo": true
+    },
+    {
+        "nombre": "Marta Díaz",
+        "correo": "marta.diaz@empresa.com",
+        "edad": 27,
+        "cargo": "Administradora",
+        "salario": 4200.0,
+        "ciudad": "Desconocida",
+        "activo": true
+    }
+]

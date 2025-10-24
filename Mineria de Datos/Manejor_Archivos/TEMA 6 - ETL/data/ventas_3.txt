@@ -1,0 +1,3 @@
+id,producto,cantidad,precio
+6,Auriculares,2,45000 
+7,Microfono,1,60000

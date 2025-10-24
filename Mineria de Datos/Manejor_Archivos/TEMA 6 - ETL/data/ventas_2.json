@@ -1,0 +1,14 @@
+[
+    {
+        "id": 4,
+        "producto": "USB",
+        "cantidad": 10,
+        "precio": 8000
+    },
+    {
+        "id": 5,
+        "producto": "Cámara",
+        "cantidad": 1,
+        "precio": 220000
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "nombre": "Luis",
+    "edad": 28,
+    "profesion": "Ingeniero",
+    "lenguajes": [
+        "Python",
+        "C++",
+        "Go"
+    ]
+}

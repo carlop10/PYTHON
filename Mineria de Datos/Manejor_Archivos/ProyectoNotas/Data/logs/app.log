@@ -1,0 +1,130 @@
+2025-10-23 23:17:10 - [INFO] - UnificarNotas: Iniciando proceso de unificación para primer_corte
+2025-10-23 23:17:10 - [ERROR] - Main: Error crítico durante la ejecución: 'UnificarNotas' object has no attribute '_leer_txt'
+Traceback (most recent call last):
+  File "c:\Users\Index\Desktop\PYTHON\Mineria de Datos\Manejor_Archivos\ProyectoNotas\main.py", line 13, in main
+    archivo_json = unificador.main()
+  File "c:\Users\Index\Desktop\PYTHON\Mineria de Datos\Manejor_Archivos\ProyectoNotas\src\UnificarNotas.py", line 92, in main
+    notas = self._leer_txt(archivo)
+            ^^^^^^^^^^^^^^
+AttributeError: 'UnificarNotas' object has no attribute '_leer_txt'. Did you mean: 'leer_txt'?
+2025-10-23 23:18:21 - [INFO] - UnificarNotas: Iniciando proceso de unificación para primer_corte
+2025-10-23 23:18:21 - [INFO] - UnificarNotas: TXT leído: asignatura_ciberseguridad.txt (10 registros)
+2025-10-23 23:18:21 - [INFO] - UnificarNotas: XML leído: asignatura_programacion.xml (10 registros)
+2025-10-23 23:18:21 - [INFO] - UnificarNotas: CSV leído: asignatura_redes.csv (10 registros)
+2025-10-23 23:18:21 - [INFO] - Main: Proceso completado correctamente.
+2025-10-23 23:23:18 - [INFO] - UnificarNotas: Iniciando proceso de unificación para primer_corte
+2025-10-23 23:23:18 - [INFO] - UnificarNotas: TXT leído: asignatura_ciberseguridad.txt (10 registros)
+2025-10-23 23:23:18 - [INFO] - UnificarNotas: XML leído: asignatura_programacion.xml (10 registros)
+2025-10-23 23:23:18 - [INFO] - UnificarNotas: CSV leído: asignatura_redes.csv (10 registros)
+2025-10-23 23:23:18 - [ERROR] - Main: Error crítico durante la ejecución: 'GenerarReporte' object has no attribute 'logger'
+Traceback (most recent call last):
+  File "c:\Users\Index\Desktop\PYTHON\Mineria de Datos\Manejor_Archivos\ProyectoNotas\src\GenerarReporte.py", line 52, in generar
+    self.logger.info(f"Reporte generado: {reporte_path}")
+    ^^^^^^^^^^^
+AttributeError: 'GenerarReporte' object has no attribute 'logger'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\Index\Desktop\PYTHON\Mineria de Datos\Manejor_Archivos\ProyectoNotas\main.py", line 16, in main
+    reporte.generar(archivo_json)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "c:\Users\Index\Desktop\PYTHON\Mineria de Datos\Manejor_Archivos\ProyectoNotas\src\GenerarReporte.py", line 54, in generar
+    self.logger.error(f"Error al escribir el reporte: {e}")
+    ^^^^^^^^^^^
+AttributeError: 'GenerarReporte' object has no attribute 'logger'
+2025-10-23 23:23:51 - [INFO] - UnificarNotas: Iniciando proceso de unificación para primer_corte
+2025-10-23 23:23:51 - [INFO] - UnificarNotas: TXT leído: asignatura_ciberseguridad.txt (10 registros)
+2025-10-23 23:23:51 - [INFO] - UnificarNotas: XML leído: asignatura_programacion.xml (10 registros)
+2025-10-23 23:23:51 - [INFO] - UnificarNotas: CSV leído: asignatura_redes.csv (10 registros)
+2025-10-23 23:23:51 - [INFO] - UnificarNotas: Iniciando proceso de unificación para primer_corte
+2025-10-23 23:23:51 - [INFO] - UnificarNotas: Reporte generado: Data\reporte_bajo_rendimiento_primer_corte.txt
+2025-10-23 23:23:51 - [INFO] - Main: Proceso completado correctamente.
+2025-10-23 23:24:26 - [INFO] - UnificarNotas: Iniciando proceso de unificación para primer_corte
+2025-10-23 23:24:26 - [INFO] - UnificarNotas: TXT leído: asignatura_ciberseguridad.txt (10 registros)
+2025-10-23 23:24:26 - [INFO] - UnificarNotas: XML leído: asignatura_programacion.xml (10 registros)
+2025-10-23 23:24:26 - [INFO] - UnificarNotas: CSV leído: asignatura_redes.csv (10 registros)
+2025-10-23 23:24:26 - [INFO] - UnificarNotas: JSON escrito: Data\notas_unificadas_primer_corte.json
+2025-10-23 23:24:26 - [INFO] - UnificarNotas: Iniciando proceso de unificación para primer_corte
+2025-10-23 23:24:26 - [INFO] - UnificarNotas: Reporte generado: Data\reporte_bajo_rendimiento_primer_corte.txt
+2025-10-23 23:24:26 - [INFO] - Main: Proceso completado correctamente.
+2025-10-23 23:54:29 - [INFO] - UnificarNotas: Iniciando proceso de unificación para primer_corte
+2025-10-23 23:54:29 - [INFO] - UnificarNotas: TXT leído: asignatura_ciberseguridad.txt (10 registros)
+2025-10-23 23:54:29 - [INFO] - UnificarNotas: XML leído: asignatura_programacion.xml (10 registros)
+2025-10-23 23:54:29 - [INFO] - UnificarNotas: CSV leído: asignatura_redes.csv (10 registros)
+2025-10-23 23:54:29 - [INFO] - UnificarNotas: JSON escrito: Data\notas_unificadas_primer_corte.json
+2025-10-23 23:54:29 - [INFO] - UnificarNotas: Iniciando proceso de unificación para primer_corte
+2025-10-23 23:54:29 - [ERROR] - UnificarNotas: Error al escribir el reporte: 'equivalencia'
+2025-10-23 23:54:29 - [INFO] - Main: Proceso completado correctamente.
+2025-10-24 00:03:11 - [INFO] - UnificarNotas: Iniciando proceso de unificación para primer_corte
+2025-10-24 00:03:11 - [INFO] - UnificarNotas: TXT leído: asignatura_ciberseguridad.txt (10 registros)
+2025-10-24 00:03:11 - [INFO] - UnificarNotas: XML leído: asignatura_programacion.xml (10 registros)
+2025-10-24 00:03:11 - [INFO] - UnificarNotas: CSV leído: asignatura_redes.csv (10 registros)
+2025-10-24 00:03:11 - [INFO] - UnificarNotas: JSON escrito: Data\notas_unificadas_primer_corte.json
+2025-10-24 00:03:11 - [INFO] - UnificarNotas: Iniciando proceso de unificación para primer_corte
+2025-10-24 00:03:11 - [ERROR] - UnificarNotas: Error al escribir el reporte: 'equivalencia'
+2025-10-24 00:03:11 - [INFO] - Main: Proceso completado correctamente.
+2025-10-24 00:03:25 - [INFO] - UnificarNotas: Iniciando proceso de unificación para tercer_corte
+2025-10-24 00:03:25 - [INFO] - UnificarNotas: TXT leído: asignatura_ciberseguridad.txt (10 registros)
+2025-10-24 00:03:25 - [INFO] - UnificarNotas: XML leído: asignatura_programacion.xml (10 registros)
+2025-10-24 00:03:25 - [INFO] - UnificarNotas: CSV leído: asignatura_redes.csv (10 registros)
+2025-10-24 00:03:25 - [INFO] - UnificarNotas: JSON escrito: Data\notas_unificadas_tercer_corte.json
+2025-10-24 00:03:25 - [INFO] - UnificarNotas: Iniciando proceso de unificación para tercer_corte
+2025-10-24 00:03:25 - [ERROR] - UnificarNotas: Error al escribir el reporte: 'equivalencia'
+2025-10-24 00:03:25 - [INFO] - Main: Proceso completado correctamente.
+2025-10-24 00:04:33 - [INFO] - UnificarNotas: Iniciando proceso de unificación para segundo_corte
+2025-10-24 00:04:33 - [INFO] - UnificarNotas: TXT leído: asignatura_ciberseguridad.txt (10 registros)
+2025-10-24 00:04:33 - [INFO] - UnificarNotas: XML leído: asignatura_programacion.xml (10 registros)
+2025-10-24 00:04:33 - [INFO] - UnificarNotas: CSV leído: asignatura_redes.csv (10 registros)
+2025-10-24 00:04:33 - [INFO] - UnificarNotas: JSON escrito: Data\notas_unificadas_segundo_corte.json
+2025-10-24 00:04:33 - [INFO] - UnificarNotas: Iniciando proceso de unificación para segundo_corte
+2025-10-24 00:04:33 - [ERROR] - UnificarNotas: Error al escribir el reporte: 'equivalencia'
+2025-10-24 00:04:33 - [INFO] - Main: Proceso completado correctamente.
+2025-10-24 00:08:35 - [INFO] - UnificarNotas: Iniciando proceso de unificación para tercer_corte
+2025-10-24 00:08:35 - [INFO] - UnificarNotas: TXT leído: asignatura_ciberseguridad.txt (10 registros)
+2025-10-24 00:08:35 - [INFO] - UnificarNotas: XML leído: asignatura_programacion.xml (10 registros)
+2025-10-24 00:08:35 - [INFO] - UnificarNotas: CSV leído: asignatura_redes.csv (10 registros)
+2025-10-24 00:08:35 - [INFO] - UnificarNotas: JSON escrito: Data\notas_unificadas_tercer_corte.json
+2025-10-24 00:08:35 - [INFO] - UnificarNotas: Iniciando proceso de unificación para tercer_corte
+2025-10-24 00:08:35 - [ERROR] - UnificarNotas: Error al escribir el reporte: 'promedio_corte'
+2025-10-24 00:08:35 - [INFO] - Main: Proceso completado correctamente.
+2025-10-24 00:10:44 - [INFO] - UnificarNotas: Iniciando proceso de unificación para tercer_corte
+2025-10-24 00:10:44 - [INFO] - UnificarNotas: TXT leído: asignatura_ciberseguridad.txt (10 registros)
+2025-10-24 00:10:44 - [INFO] - UnificarNotas: XML leído: asignatura_programacion.xml (10 registros)
+2025-10-24 00:10:44 - [INFO] - UnificarNotas: CSV leído: asignatura_redes.csv (10 registros)
+2025-10-24 00:10:44 - [INFO] - UnificarNotas: JSON escrito: Data\notas_unificadas_tercer_corte.json
+2025-10-24 00:10:44 - [INFO] - UnificarNotas: Iniciando proceso de unificación para tercer_corte
+2025-10-24 00:10:44 - [ERROR] - UnificarNotas: Error al escribir el reporte: 'equivalencia'
+2025-10-24 00:10:44 - [INFO] - Main: Proceso completado correctamente.
+2025-10-24 00:11:23 - [INFO] - UnificarNotas: Iniciando proceso de unificación para tercer_corte
+2025-10-24 00:11:23 - [INFO] - UnificarNotas: TXT leído: asignatura_ciberseguridad.txt (10 registros)
+2025-10-24 00:11:23 - [INFO] - UnificarNotas: XML leído: asignatura_programacion.xml (10 registros)
+2025-10-24 00:11:23 - [INFO] - UnificarNotas: CSV leído: asignatura_redes.csv (10 registros)
+2025-10-24 00:11:23 - [INFO] - UnificarNotas: JSON escrito: Data\notas_unificadas_tercer_corte.json
+2025-10-24 00:11:23 - [INFO] - UnificarNotas: Iniciando proceso de unificación para tercer_corte
+2025-10-24 00:11:23 - [INFO] - UnificarNotas: Reporte generado: Data\reporte_bajo_rendimiento_tercer_corte.txt
+2025-10-24 00:11:23 - [INFO] - Main: Proceso completado correctamente.
+2025-10-24 00:12:36 - [INFO] - UnificarNotas: Iniciando proceso de unificación para primer_corte
+2025-10-24 00:12:36 - [INFO] - UnificarNotas: TXT leído: asignatura_ciberseguridad.txt (10 registros)
+2025-10-24 00:12:36 - [INFO] - UnificarNotas: XML leído: asignatura_programacion.xml (10 registros)
+2025-10-24 00:12:36 - [INFO] - UnificarNotas: CSV leído: asignatura_redes.csv (10 registros)
+2025-10-24 00:12:36 - [INFO] - UnificarNotas: JSON escrito: Data\notas_unificadas_primer_corte.json
+2025-10-24 00:12:36 - [INFO] - UnificarNotas: Iniciando proceso de unificación para primer_corte
+2025-10-24 00:12:36 - [INFO] - UnificarNotas: Reporte generado: Data\reporte_bajo_rendimiento_primer_corte.txt
+2025-10-24 00:12:36 - [INFO] - Main: Proceso completado correctamente.
+2025-10-24 00:12:51 - [INFO] - UnificarNotas: Iniciando proceso de unificación para tercer_corte
+2025-10-24 00:12:51 - [INFO] - UnificarNotas: TXT leído: asignatura_ciberseguridad.txt (10 registros)
+2025-10-24 00:12:51 - [INFO] - UnificarNotas: XML leído: asignatura_programacion.xml (10 registros)
+2025-10-24 00:12:51 - [INFO] - UnificarNotas: CSV leído: asignatura_redes.csv (10 registros)
+2025-10-24 00:12:51 - [INFO] - UnificarNotas: JSON escrito: Data\notas_unificadas_tercer_corte.json
+2025-10-24 00:12:51 - [INFO] - UnificarNotas: Iniciando proceso de unificación para tercer_corte
+2025-10-24 00:12:51 - [INFO] - UnificarNotas: Reporte generado: Data\reporte_bajo_rendimiento_tercer_corte.txt
+2025-10-24 00:12:51 - [INFO] - Main: Proceso completado correctamente.
+2025-10-24 00:24:33 - [INFO] - UnificarNotas: Iniciando proceso de unificación para segundo_corte
+2025-10-24 00:24:33 - [INFO] - UnificarNotas: TXT leído: asignatura_ciberseguridad.txt (10 registros)
+2025-10-24 00:24:33 - [INFO] - UnificarNotas: XML leído: asignatura_programacion.xml (10 registros)
+2025-10-24 00:24:33 - [INFO] - UnificarNotas: CSV leído: asignatura_redes.csv (10 registros)
+2025-10-24 00:24:33 - [INFO] - UnificarNotas: JSON escrito: Data\notas_unificadas_segundo_corte.json
+2025-10-24 00:24:33 - [INFO] - UnificarNotas: Iniciando proceso de unificación para segundo_corte
+2025-10-24 00:24:33 - [INFO] - UnificarNotas: Reporte generado: Data\reporte_bajo_rendimiento_segundo_corte.txt
+2025-10-24 00:24:33 - [INFO] - Main: Proceso completado correctamente.

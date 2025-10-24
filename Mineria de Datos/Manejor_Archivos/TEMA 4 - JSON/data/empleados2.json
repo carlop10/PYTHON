@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "nombre": "Ana",
+        "edad": "30",
+        "departamento": "TI"
+    },
+    {
+        "id": "2",
+        "nombre": "Luis",
+        "edad": "25",
+        "departamento": "Marketing"
+    }
+]

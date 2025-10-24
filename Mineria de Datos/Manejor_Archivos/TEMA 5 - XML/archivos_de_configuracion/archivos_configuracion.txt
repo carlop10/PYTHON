@@ -1,0 +1,16 @@
+Estos archivos se usan para almacenar parámetros de configuración en formato
+clave-valor. 
+
+Ejemplo típico (config.ini):
+
+[general]
+version = 1.0
+autor = Carlos
+
+[base_datos]
+host = localhost
+usuario = admin
+password = 1234
+
+ 4. Trabajando con configparser 
+El módulo estándar configparser permite leer y escribir fácilmente este tipo de archivos.

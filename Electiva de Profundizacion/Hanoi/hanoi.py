@@ -1,8 +1,6 @@
-# Juego Torres de Hanoi con recursividad, el usuario debe interactuar con el programa para mover los discos de una varilla a otra siguiendo las reglas del juego.
-# Se debe validar que los movimientos sean correctos y mostrar el estado actual de las varillas después de cada movimiento.
-# El usuario decide que movimiento hacer en cada paso hasta completar el juego.
-# Se debe mostrar el número total de movimientos realizados al finalizar el juego y el estado final de las varillas.
-# Se debe mostrar mensajes de error si el usuario intenta hacer un movimiento inválido.
+# Juego Torres de Hanoi
+# Estuduante: Carlos Lopez
+# Asignatura: Electiva de Profundizacion III - 7A
 
 def hanoi(n, origen, destino, auxiliar, movimientos):
     if n == 1:

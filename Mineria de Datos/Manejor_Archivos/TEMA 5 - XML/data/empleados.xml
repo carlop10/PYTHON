@@ -1,0 +1,12 @@
+<empresa> 
+    <empleado id="1"> 
+        <nombre>Ana Gómez</nombre> 
+        <cargo>Ingeniera</cargo> 
+        <salario>4500</salario> 
+    </empleado> 
+    <empleado id="2"> 
+        <nombre>Luis Pérez</nombre> 
+        <cargo>Analista</cargo> 
+        <salario>3800</salario> 
+    </empleado> 
+</empresa> 

@@ -8,7 +8,6 @@ from pathlib import Path
 entrada = Path("data/precios_cop.csv")
 salida = Path("data/precios_cop.json") 
 datos = []
-
 with entrada.open("r", encoding="utf-8", newline="") as f_in:
     lector = csv.DictReader(f_in)
     for fila in lector:

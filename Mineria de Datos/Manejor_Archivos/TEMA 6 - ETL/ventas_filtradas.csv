@@ -1,0 +1,7 @@
+id,producto,cantidad,precio,total,moneda
+1,Teclado,3,25000.0,89250.0,COP
+2,Mouse,5,12000.0,71400.0,COP
+3,Pantalla,2,150000.0,357000.0,COP
+5,Cámara,1,220000,261800.0,COP
+6,Auriculares,2,45000.0,107100.0,COP
+7,Microfono,1,60000.0,71400.0,COP
